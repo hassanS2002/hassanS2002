@@ -1,6 +1,6 @@
 - Hi, I’m Hassan Siddiqui
 - I’m interested in Computer hardware and software 
-- I’m currently learning computer engineering
+- I’m currently learning Computer Engineering
 - I’m looking to collaborate on new projects
 - Reach me via Email (siddiquihassan931@gmail.com)
 
